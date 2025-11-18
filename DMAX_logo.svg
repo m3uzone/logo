@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="631"
+   height="151"
+   id="svg2"
+   version="1.1">
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.499972,-587.84564)">
+    <path
+       style="fill:#007081;fill-rule:evenodd;stroke:none"
+       d="m 59.499972,738.84563 64.903948,0 c 45.85808,0 73.98059,-26.67934 73.98059,-76.18331 0,-46.71266 -27.66672,-74.81615 -73.98059,-74.81615 l -64.903948,0 0,150.99946"
+       id="path4957" />
+    <path
+       style="fill:#007081;fill-rule:evenodd;stroke:none"
+       d="m 208.69551,738.84563 168.29833,0 0,-150.99946 -57.91606,0 -26.45148,82.58258 -26.01479,-82.58258 -57.916,0 0,150.99946"
+       id="path4961" />
+    <path
+       style="fill:#007081;fill-rule:evenodd;stroke:none"
+       d="m 381.62711,738.84563 152.87933,0 -56.41589,-150.99946 -39.9716,0 -56.49184,150.99946"
+       id="path4965" />
+    <path
+       style="fill:#007081;fill-rule:evenodd;stroke:none"
+       d="m 538.17127,738.84563 152.3287,0 -53.33973,-79.3355 48.80137,-71.66396 -143.34696,0 49.27611,71.66396 -53.71949,79.3355"
+       id="path4969" />
+  </g>
+</svg>
